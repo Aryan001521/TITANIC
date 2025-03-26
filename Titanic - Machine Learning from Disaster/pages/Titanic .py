@@ -1,6 +1,6 @@
 import os
 print(os.listdir())  # List all files in the current directory
-file_path = os.path.join("C:\\Users\\aryan\\OneDrive\\Documents\\phython project\\Titanic - Machine Learning from Disaster", "train.csv")#join path 
+file_path = os.path.join("phython project\\Titanic - Machine Learning from Disaster", "train.csv")#join path 
 
 import pandas as pd
 import seaborn as sns  
